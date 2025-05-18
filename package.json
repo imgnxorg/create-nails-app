@@ -1,0 +1,19 @@
+{
+  "name": "create-nails-app",
+  "version": "2.0.0",
+  "description": "A Next.js template for Wails",
+  "main": "setup.sh",
+  "scripts": {
+    "start": "bash -c setup.sh",
+    "test": "No test have been written yet."
+  },
+  "keywords": [
+    "Wails",
+    "Next.js",
+    "Electron",
+    "Nextron"
+  ],
+  "author": "Donald Wayne Moore Jr.",
+  "license": "0BSD",
+  "type": "module"
+}
