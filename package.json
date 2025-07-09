@@ -2,7 +2,11 @@
   "name": "create-nails-app",
   "version": "2.0.0",
   "description": "A Next.js template for Wails",
-  "main": "setup.sh",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/imgnxorg/create-nails-app"
+    },
+    "main": "setup.sh",
   "scripts": {
     "start": "bash -c setup.sh",
     "test": "No test have been written yet."

@@ -2,7 +2,7 @@
 set -e
 
 # Step 1: Create Next.js + TailwindCSS app
-npx create-next-app@latest frontend -e with-tailwindcss --typescript --src-dir
+npx create-next-app@latest frontend -e app-tw --typescript --src-dir
 
 # Step 2: Configure static export
 cat > frontend/next.config.js <<EOF
